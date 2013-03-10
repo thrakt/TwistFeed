@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+	<cron>
+		<url>/round/</url>
+		<description>check every 8 minutes</description>
+		<schedule>every 8 minutes</schedule>
+		<timezone>Asia/Tokyo</timezone>
+	</cron>
+</cronentries>
